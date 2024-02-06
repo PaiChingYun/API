@@ -1,0 +1,77 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "dbHotelContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Fuen31HotelAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[BusRoutes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BusTrackers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CarCartItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CarMaintenance]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CarManagements]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CarOrderItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CarOrders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CarPrices]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CarResponsible]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "sparkle\\sql2024.dbHotel.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
